@@ -1,6 +1,7 @@
 {
-  "name": "contrastfi/woocommerce-random-calatog-sorting",
+  "name": "contrastfi/woocommerce-random-catalog-sorting",
   "description": "Adds a random product sorting method with working pagination.",
+  "version": "1.0.0",
   "prefer-stable": true,
   "minimum-stability": "dev",
   "authors": [

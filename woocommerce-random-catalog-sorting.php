@@ -4,7 +4,7 @@
  * Plugin Name: WooCommerce Random Catalog Sorting
  * Description: Adds a random product sorting method with working pagination
  * Author: Contrast.fi
- * Version: 0.1.0
+ * Version: 1.0.0
  */
 
 defined('ABSPATH') || exit;

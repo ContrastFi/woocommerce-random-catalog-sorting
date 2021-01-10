@@ -30,6 +30,21 @@ Installation is the same as any other WordPress plugin.
 
 3. Visit the plugins page in the WP admin, activate the plugin. 
 
+### With Composer
+
+Add this repository to your `composer.json`:
+
+```
+"repositories":[
+    {
+      "type": "git",
+      "url": "https://github.com/ContrastFi/woocommerce-random-catalog-sorting"
+    }
+]
+```
+
+then `composer require contrastfi/woocommerce-random-catalog-sorting`
+
 ## Requires
 
 - WooCommerce 3.x
