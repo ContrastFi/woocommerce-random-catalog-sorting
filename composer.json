@@ -1,0 +1,12 @@
+{
+  "name": "contrastfi/woocommerce-random-calatog-sorting",
+  "description": "Adds a random product sorting method with working pagination.",
+  "prefer-stable": true,
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "contrast.fi"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
