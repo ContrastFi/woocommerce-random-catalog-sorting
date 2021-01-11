@@ -1,4 +1,4 @@
-# Woocommerce Random Catalog Sorting
+# WooCommerce Random Catalog Sorting
 
 Adds a random product sorting method with working pagination.
 
@@ -28,7 +28,7 @@ Installation is the same as any other WordPress plugin.
 
 2. Unzip the plugin file.
 
-3. Visit the plugins page in the WP admin, activate the plugin. 
+3. Activate the plugin.
 
 ### With Composer
 
@@ -51,4 +51,4 @@ then `composer require contrastfi/woocommerce-random-catalog-sorting`
 
 ## Performance considerations
 
-This plugin uses SQL's `ORDER BY RAND()`. If you have hundreds of thoudsands of products, the query will be heavy.
+This plugin uses SQL's `ORDER BY RAND()`. If you have hundreds of thousands of products, the query will be heavy.
